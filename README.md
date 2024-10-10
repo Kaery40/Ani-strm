@@ -9,6 +9,7 @@
 </div>
 
 > 非常感谢 [aniopen](https://openani.an-i.workers.dev/) TG:[Channel_ANi](https://t.me/channel_ani)
+> [测试站](https://0m.ee/)
 > 
 ## 📜公告通知
 
