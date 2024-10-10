@@ -4,6 +4,9 @@
 <div align="center">
 	<img src="./1.png">
 </div>
+<div align="center">
+	<img src="./2.png">
+</div>
 
 > 非常感谢 [aniopen](https://openani.an-i.workers.dev/) TG:[Channel_ANi](https://t.me/channel_ani)
 > 
