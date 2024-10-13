@@ -15,7 +15,7 @@ xmlurl = "https://api.ani.rip/ani-download.xml"
 ani = "https://openani.an-i.workers.dev/"
 headers = {
     'origin': ani,
-    'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/128.0.0.0 Safari/537.36',
+    'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
     "Content-Type": "application/json"
 }
 data = '{"password":"null"}'
