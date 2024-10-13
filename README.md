@@ -23,7 +23,7 @@
 - 安装依赖
 
 ```shell script
-- pip install aiohttp aiofiles loguru
+- pip install aiohttp aiofiles loguru apscheduler
 ```
 
 - 运行程序
