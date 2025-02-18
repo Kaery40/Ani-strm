@@ -14,7 +14,7 @@
 
 > 非常感谢 [aniopen](https://openani.an-i.workers.dev/) TG:[Channel_ANi](https://t.me/channel_ani)
 
-> [测试站](https://0m.ee/)
+> [测试站](https://0m.ee/)>  [免梯镜像站](https://ani.0m.ee/)
 ## 📜公告通知
 
 - 本程序为开源项目，不接受任何形式的催单和索取行为，更不容许存在付费内容
