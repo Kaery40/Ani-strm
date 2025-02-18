@@ -11,7 +11,7 @@ logger.add(
     format="<green>{time:YYYY-MM-DD HH:mm:ss:SSS}</green> | <level>{level: <8}</level> | <green>{name}:{function}:{line}</green> - <level>{message}</level>",
     level="DEBUG"
 )
-xmlurl = "https://api.ani.rip/ani-download.xml"
+xmlurl = "https://aniapi.0m.ee/ani-download.xml"
 ani = "https://ani.0m.ee/"
 headers = {
     'origin': ani,
